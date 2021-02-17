@@ -1,4 +1,4 @@
-EXAMPLE:
+## Git Flow Example
 
 The `master` branch should contain the latest and greatest code. Feature branches are created off `master` and then merged back when the features are complete (or have reached a good checkpoint). To get started: 
 
